@@ -1,0 +1,17 @@
+body {
+  background-color: green;
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  font-size: 4.4rem;
+  text-align: center;
+}
+img {
+  height: 300px;
+  border-radius: 9px;
+
+
+}
